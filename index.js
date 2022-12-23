@@ -71,7 +71,7 @@ async function startjobotz() {
     const jobotz = makeWASocket({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['THE JO BOT V3', 'Safari','1.0.0'],
+        browser: ['THE CA BOT', 'Safari','1.0.0'],
         auth: state
     })
 
@@ -163,8 +163,8 @@ async function startjobotz() {
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 ╭━━•›〘 SUBSCRIBE 〙
 │➳ Channel YouTube
-│➳ THE JO BOT
-│➳ https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w
+│➳ THE CA BOT
+│➳ -
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
